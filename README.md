@@ -1,6 +1,6 @@
 # Translation plugin for Bolt CMS
 
-This plugin handles translation of content within bolt. It is recomended to be
+This plugin handles translation of content within bolt. It is recommended to be
 used in combination with the labels extension. 
 
 ![Screenshot, Backend](https://cloud.githubusercontent.com/assets/343392/10799822/23900e48-7daf-11e5-86ad-c7f7730a0b13.png)
